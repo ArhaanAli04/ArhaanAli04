@@ -2,7 +2,7 @@
 
 🎓 Final-year Engineering Student | Full-Stack AI/ML Developer  
 📍 Mumbai, India  
-🔭 Currently building: AI Travel Copilot   
+🔭 Currently building: WeekFlow  
 📫 Reach me at: [arhaan.ali2004@gmail.com]
 
 ---
