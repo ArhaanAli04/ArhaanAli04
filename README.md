@@ -1,8 +1,8 @@
 # Mohammed Arhaan Ali
 
-**AI & Software Engineer** · Mumbai, India · [Portfolio](#) · [LinkedIn](#) · [Email](mailto:arhaan.ali2004@gmail.com)
+**AI & Software Engineer** · Mumbai, India · [Portfolio](https://mohammed-arhaan-ali.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mohammed-arhaan-ali-5632462b0/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) · [Email](mailto:arhaan.ali2004@gmail.com)
 
-Final-year AI & Data Science engineer (Rank 1 / 134 · CGPA 9.53). Published researcher at ICSCDS 2025. I build and ship production AI systems — RAG pipelines, multi-agent backends, and full-stack applications with live deployments.
+Final-year AI & Data Science engineer (CGPA 9.53). Published researcher at ICSCDS 2025. I build and ship production AI systems — RAG pipelines, multi-agent backends, and full-stack applications with live deployments.
 
 ---
 
@@ -19,7 +19,7 @@ Full-stack AI assistant with three intelligent modules: multi-destination trip p
 
 ---
 
-### [RAG Study Assistant](#) · [Live Demo](#) · [GitHub](#)
+### [RAG Study Assistant](#) · [Live Demo](https://rag-study-assistant-chi.vercel.app/) · [GitHub](https://github.com/ArhaanAli04/rag-study-assistant)
 Production-ready RAG application for document-based learning — chat, quizzes, and concept maps over uploaded documents.
 
 - Engineered hybrid retrieval combining FAISS dense vector search and BM25 sparse keyword matching, with a 3-tier grounding system (strict / loose / none) that measurably reduces hallucination rate
@@ -42,7 +42,7 @@ End-to-end race strategy and telemetry platform — 8 microservices, live teleme
 
 ---
 
-### [F1 Race Predictor](#) · [GitHub](#)
+### [F1 Race Predictor](#) · [GitHub](https://github.com/ArhaanAli04/f1-race-predictor)
 Predecessor ML model for F1 race outcome prediction — the foundation the Strategy Engine is built on.
 
 - 86.18% ROC AUC across multi-season temporal validation
@@ -70,8 +70,8 @@ Proposed a parallel recurrent fusion architecture combining multiple RNN variant
 | Backend | FastAPI · Node.js · REST APIs · WebSockets |
 | Frontend | React · React Native · Tauri |
 | Databases | PostgreSQL · MongoDB · Redis · SQLite |
-| Infrastructure | Docker · Kubernetes · GitHub Actions · Prometheus · Grafana |
-| Platforms | Vercel · Render · AWS |
+| Infrastructure | Docker · GitHub Actions |
+| Platforms | Vercel · Render · Railway |
 
 ---
 
