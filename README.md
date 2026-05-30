@@ -8,7 +8,7 @@ Final-year AI & Data Science engineer (Rank 1 / 134 · CGPA 9.53). Published res
 
 ## Featured Projects
 
-### [AI Travel Copilot](#) · [Live Demo](#) · [GitHub](#)
+### [AI Travel Copilot](#) · [Live Demo](https://ai-travel-copilot.vercel.app/) · [GitHub](https://github.com/ArhaanAli04/ai-travel-copilot)
 Full-stack AI assistant with three intelligent modules: multi-destination trip planning, automated flight disruption resolution, and local experience discovery.
 
 - Architected a flight disruption pipeline that resolves ambiguous airport queries via NLP, enriches cases with live AviationStack and weather data, generates regulatory-compliant compensation options, and drafts passenger emails using Gemini — reducing manual resolution to zero human steps
