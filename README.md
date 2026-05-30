@@ -104,7 +104,6 @@ Proposed a parallel recurrent fusion architecture combining multiple RNN variant
 **AI / ML**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF4B4B?style=for-the-badge)
