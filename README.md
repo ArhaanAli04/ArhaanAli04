@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Rank](https://img.shields.io/badge/Rank-1%20%2F%20134-gold?style=for-the-badge&logo=academia)
+
 ![CGPA](https://img.shields.io/badge/CGPA-9.53%2F10-brightgreen?style=for-the-badge)
 ![Research](https://img.shields.io/badge/Published-ICSCDS%202025-blue?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white)
