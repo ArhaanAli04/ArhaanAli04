@@ -134,7 +134,7 @@ Proposed a parallel recurrent fusion architecture combining multiple RNN variant
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-azure-seven-55.vercel.app/api?username=ArhaanAli04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArhaanAli04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats-azure-seven-55.vercel.app/api/top-langs/?username=ArhaanAli04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
 </div>
 
 <div align="center">
