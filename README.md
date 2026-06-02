@@ -14,7 +14,7 @@
 
 <div align="center">
 
-**AI & Software Engineer** · Mumbai, India · [Portfolio](https://mohammed-arhaan-ali.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mohammed-arhaan-ali-5632462b0/) · [Email](mailto:arhaan.ali2004@gmail.com)
+**AI & Software Engineer** · Mumbai, India · [Portfolio](https://mohammed-arhaan-ali-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mohammed-arhaan-ali-5632462b0/) · [Email](mailto:arhaan.ali2004@gmail.com)
 
 Final-year AI & Data Science engineer (CGPA 9.53). Published researcher at ICSCDS 2025. I build and ship production AI systems — RAG pipelines, multi-agent backends, and full-stack applications with live deployments.
 
