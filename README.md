@@ -129,6 +129,14 @@ Proposed a parallel recurrent fusion architecture combining multiple RNN variant
 
 ---
 
+## Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArhaanAli04&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
