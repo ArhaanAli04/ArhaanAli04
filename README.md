@@ -49,7 +49,16 @@ Personal activity tracker and AI-powered weekly performance app — available as
 - Monorepo architecture with shared TypeScript business logic (`@weekflow/shared`) across native and web — zero duplication between React Native and React/Vite apps
 - 7 Supabase tables with Row Level Security, Zustand stores with optimistic updates and offline queue fallback, and streak tracking across weeks
 
-**Stack:** React Native · Expo · React · Vite · Tailwind · Supabase · Claude API · Zustand · Cloudflare Pages
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 ---
 
