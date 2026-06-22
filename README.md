@@ -42,6 +42,16 @@ Full-stack AI assistant with three intelligent modules: multi-destination trip p
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ---
+### [WeekFlow](#)  · [GitHub](#)
+Personal activity tracker and AI-powered weekly performance app — available as both a React Native mobile app and a Progressive Web App.
+
+- AI-generated end-of-week performance report graded S–D with score, wins, improvements, and capacity insights — powered by Claude via Supabase Edge Function (API key never exposed client-side)
+- Monorepo architecture with shared TypeScript business logic (`@weekflow/shared`) across native and web — zero duplication between React Native and React/Vite apps
+- 7 Supabase tables with Row Level Security, Zustand stores with optimistic updates and offline queue fallback, and streak tracking across weeks
+
+**Stack:** React Native · Expo · React · Vite · Tailwind · Supabase · Claude API · Zustand · Cloudflare Pages
+
+---
 
 ### [RAG Study Assistant](https://github.com/ArhaanAli04/rag-study-assistant) · [Live Demo](https://rag-study-assistant-chi.vercel.app/) · [GitHub](https://github.com/ArhaanAli04/rag-study-assistant)
 Production-ready RAG application for document-based learning — chat, quizzes, and concept maps over uploaded documents.
@@ -78,18 +88,7 @@ End-to-end race strategy and telemetry platform — 8 microservices, live teleme
 
 ---
 
-### [F1 Race Predictor](https://github.com/ArhaanAli04/f1-race-predictor) · [GitHub](https://github.com/ArhaanAli04/f1-race-predictor)
-Predecessor ML model for F1 race outcome prediction — the foundation the Strategy Engine is built on.
 
-- **86.18% ROC AUC** across multi-season temporal validation
-- 57 features from 1,177 race records including qualifying delta, constructor momentum, driver win rate, and circuit-specific historical performance
-- Automated data ingestion via OpenF1 API with incremental retraining
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square)
-
----
 
 ## 📄 Research
 
