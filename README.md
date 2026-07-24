@@ -5,7 +5,7 @@
 <div align="center">
 
 
-![CGPA](https://img.shields.io/badge/CGPA-9.53%2F10-brightgreen?style=for-the-badge)
+
 ![Research](https://img.shields.io/badge/Published-ICSCDS%202025-blue?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Location](https://img.shields.io/badge/Mumbai-India-red?style=for-the-badge&logo=googlemaps&logoColor=white)
@@ -16,7 +16,7 @@
 
 **AI & Software Engineer** · Mumbai, India · [Portfolio](https://mohammed-arhaan-ali-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mohammed-arhaan-ali-5632462b0/) · [Email](mailto:arhaan.ali2004@gmail.com)
 
-Final-year AI & Data Science engineer (CGPA 9.38). Published researcher at ICSCDS 2025. I build and ship production AI systems — RAG pipelines, multi-agent backends, and full-stack applications with live deployments.
+Final-year AI & Data Science engineer. Published researcher at ICSCDS 2025. I build and ship production AI systems — RAG pipelines, multi-agent backends, and full-stack applications with live deployments.
 
 <img src="https://komarev.com/ghpvc/?username=ArhaanAli04&label=Profile+Views&color=6E40C9&style=flat" alt="profile views"/>
 
