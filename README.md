@@ -42,6 +42,31 @@ Full-stack AI assistant with three intelligent modules: multi-destination trip p
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ---
+
+### F1 Real-Time Strategy Engine · [GitHub](#) · `In Progress`
+A production-grade real-time telemetry and analytics platform with live data ingestion, ML inference pipelines, 
+WebSocket broadcast, and full observability stack (Prometheus, Grafana, Sentry), demonstrating end-to-end full 
+stack and cloud-native engineering. 
+
+- Three real-time data pipelines: historical ingestion (139,764 laps via FastF1), live 
+SignalR telemetry stream (CarData → Redis 8s TTL, LapData → PostgreSQL), and asynchronous Celery 
+worker pipeline for per-lap ML inference- processing telemetry during a live race. 
+- Full observability stack: Prometheus metrics, Grafana dashboards, Sentry error tracking, and 
+Alertmanager routing to Slack, with 129 automated tests (unit, integration, E2E) with GitHub Actions CI/CD 
+pipeline - load tested at 500 concurrent users.
+- CI/CD via GitHub Actions, Docker multi-stage builds, Kubernetes deployment with HPA and liveness probes
+- Frontends: React (web) · Tauri (desktop) · React Native (mobile)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
+
+---
 ### [WeekFlow](#)  · [GitHub](#)
 Personal activity tracker and AI-powered weekly performance app — available as both a React Native mobile app and a Progressive Web App.
 
@@ -76,30 +101,7 @@ Production-ready RAG application for document-based learning — chat, quizzes, 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
----
 
-### F1 Real-Time Strategy Engine · [GitHub](#) · `In Progress`
-A production-grade real-time telemetry and analytics platform with live data ingestion, ML inference pipelines, 
-WebSocket broadcast, and full observability stack (Prometheus, Grafana, Sentry), demonstrating end-to-end full 
-stack and cloud-native engineering. 
-
-- Three real-time data pipelines: historical ingestion (139,764 laps via FastF1), live 
-SignalR telemetry stream (CarData → Redis 8s TTL, LapData → PostgreSQL), and asynchronous Celery 
-worker pipeline for per-lap ML inference- processing telemetry during a live race. 
-- Full observability stack: Prometheus metrics, Grafana dashboards, Sentry error tracking, and 
-Alertmanager routing to Slack, with 129 automated tests (unit, integration, E2E) with GitHub Actions CI/CD 
-pipeline - load tested at 500 concurrent users.
-- CI/CD via GitHub Actions, Docker multi-stage builds, Kubernetes deployment with HPA and liveness probes
-- Frontends: React (web) · Tauri (desktop) · React Native (mobile)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
 
 ---
 
