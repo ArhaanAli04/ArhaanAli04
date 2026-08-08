@@ -79,10 +79,16 @@ Production-ready RAG application for document-based learning — chat, quizzes, 
 ---
 
 ### F1 Real-Time Strategy Engine · [GitHub](#) · `In Progress`
-End-to-end race strategy and telemetry platform — 8 microservices, live telemetry via WebSockets, ML race predictions, and cross-platform frontends.
+A production-grade real-time telemetry and analytics platform with live data ingestion, ML inference pipelines, 
+WebSocket broadcast, and full observability stack (Prometheus, Grafana, Sentry), demonstrating end-to-end full 
+stack and cloud-native engineering. 
 
-- Temporal validation pipeline training on 2023–2024 seasons to predict 2025 races, achieving **86.18% ROC AUC** with 57 engineered features and incremental retraining as new results arrive
-- Full observability stack: Prometheus metrics, Grafana dashboards, structured logging with correlation IDs, and k6 load testing
+- Three real-time data pipelines: historical ingestion (139,764 laps via FastF1), live 
+SignalR telemetry stream (CarData → Redis 8s TTL, LapData → PostgreSQL), and asynchronous Celery 
+worker pipeline for per-lap ML inference- processing telemetry during a live race. 
+- Full observability stack: Prometheus metrics, Grafana dashboards, Sentry error tracking, and 
+Alertmanager routing to Slack, with 129 automated tests (unit, integration, E2E) with GitHub Actions CI/CD 
+pipeline - load tested at 500 concurrent users.
 - CI/CD via GitHub Actions, Docker multi-stage builds, Kubernetes deployment with HPA and liveness probes
 - Frontends: React (web) · Tauri (desktop) · React Native (mobile)
 
