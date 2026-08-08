@@ -43,7 +43,7 @@ Full-stack AI assistant with three intelligent modules: multi-destination trip p
 
 ---
 
-### [F1 Real-Time Strategy Engine] · [GitHub](#) · `In Progress`
+### F1 Real-Time Strategy Engine · [GitHub](#) · `In Progress`
 A production-grade real-time telemetry and analytics platform with live data ingestion, ML inference pipelines, 
 WebSocket broadcast, and full observability stack (Prometheus, Grafana, Sentry), demonstrating end-to-end full 
 stack and cloud-native engineering. 
