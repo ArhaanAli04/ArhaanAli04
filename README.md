@@ -15,7 +15,6 @@
 
 **AI & Software Engineer** · Mumbai, India · [Portfolio](https://mohammed-arhaan-ali-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mohammed-arhaan-ali-5632462b0/) · [Email](mailto:arhaan.ali2004@gmail.com)
 
-AI & Software engineer. I build and ship production AI systems — RAG pipelines, multi-agent backends, and full-stack applications with live deployments.
 
 <img src="https://komarev.com/ghpvc/?username=ArhaanAli04&label=Profile+Views&color=6E40C9&style=flat" alt="profile views"/>
 
