@@ -105,13 +105,6 @@ Production-ready RAG application for document-based learning — chat, quizzes, 
 ---
 
 
-
-## 📄 Research
-
-**"A Novel Parallel Recurrent Fusion Network for Stock Market Forecasting"**
-*International Conference on Sustainable Computing and Data Science (ICSCDS), 2025*
-Proposed a parallel recurrent fusion architecture combining multiple RNN variants for improved time-series forecasting accuracy on financial data.
-
 ---
 
 ## 🛠️ Tech Stack
