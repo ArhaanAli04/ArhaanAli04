@@ -6,8 +6,7 @@
 
 
 
-![Research](https://img.shields.io/badge/Published-ICSCDS%202025-blue?style=for-the-badge&logo=googlescholar&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white)
+
 ![Location](https://img.shields.io/badge/Mumbai-India-red?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
