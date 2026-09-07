@@ -173,11 +173,6 @@ Proposed a parallel recurrent fusion architecture combining multiple RNN variant
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **Rank 1 / 134** — AI & Data Science Department, Semester VI (10/10 GPA)
-- 📄 **Published researcher** — ICSCDS 2025
-- 💻 **500+ DSA problems** solved on LeetCode
 
 ---
 
