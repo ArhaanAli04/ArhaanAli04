@@ -25,7 +25,7 @@
 ## 🚀 Featured Projects
 
 ### [AI Travel Copilot](https://github.com/ArhaanAli04/ai-travel-copilot) · [Live Demo](https://ai-travel-copilot.vercel.app/) · [GitHub](https://github.com/ArhaanAli04/ai-travel-copilot)
-Full-stack AI assistant with three intelligent modules: multi-destination trip planning, automated flight disruption resolution, and local experience discovery.
+Full-stack AI travel assistant with three intelligent modules: multi-destination trip planning, automated flight disruption resolution, and local experience discovery.
 
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
@@ -40,17 +40,9 @@ Full-stack AI assistant with three intelligent modules: multi-destination trip p
 
 ### F1 Real-Time Strategy Engine · [GitHub](#) · `In Progress`
 A production-grade real-time telemetry and analytics platform with live data ingestion, ML inference pipelines, 
-WebSocket broadcast, and full observability stack (Prometheus, Grafana, Sentry), demonstrating end-to-end full 
-stack and cloud-native engineering. 
+WebSocket broadcast, and full observability stack (Prometheus, Grafana, Sentry), predicting lap-by-lap optimal strategy for every driver during a live F1 race.
 
-- Three real-time data pipelines: historical ingestion (139,764 laps via FastF1), live 
-SignalR telemetry stream (CarData → Redis 8s TTL, LapData → PostgreSQL), and asynchronous Celery 
-worker pipeline for per-lap ML inference- processing telemetry during a live race. 
-- Full observability stack: Prometheus metrics, Grafana dashboards, Sentry error tracking, and 
-Alertmanager routing to Slack, with 129 automated tests (unit, integration, E2E) with GitHub Actions CI/CD 
-pipeline - load tested at 500 concurrent users.
-- CI/CD via GitHub Actions, Docker multi-stage builds, Kubernetes deployment with HPA and liveness probes
-- Frontends: React (web) · Tauri (desktop) · React Native (mobile)
+
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -82,9 +74,6 @@ Personal activity tracker and AI-powered weekly performance app — available as
 ### [RAG Study Assistant](https://github.com/ArhaanAli04/rag-study-assistant) · [Live Demo](https://rag-study-assistant-chi.vercel.app/) · [GitHub](https://github.com/ArhaanAli04/rag-study-assistant)
 Production-ready RAG application for document-based learning — chat, quizzes, and concept maps over uploaded documents.
 
-- Engineered hybrid retrieval combining FAISS dense vector search and BM25 sparse keyword matching, with a **3-tier grounding system (strict / loose / none)** that measurably reduces hallucination rate
-- FastAPI backend with JWT + OAuth authentication, multi-format document ingestion (PDF, PPTX, DOCX), and isolated vector stores per user for concurrent multi-user sessions
-- Semantic caching via Redis to reduce redundant LLM calls; CI-based GitHub deployments
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
