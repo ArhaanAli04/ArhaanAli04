@@ -65,9 +65,6 @@ pipeline - load tested at 500 concurrent users.
 ### [WeekFlow](#)  · [GitHub](#)
 Personal activity tracker and AI-powered weekly performance app — available as both a React Native mobile app and a Progressive Web App.
 
-- AI-generated end-of-week performance report graded S–D with score, wins, improvements, and capacity insights — powered by Claude via Supabase Edge Function (API key never exposed client-side)
-- Monorepo architecture with shared TypeScript business logic (`@weekflow/shared`) across native and web — zero duplication between React Native and React/Vite apps
-- 7 Supabase tables with Row Level Security, Zustand stores with optimistic updates and offline queue fallback, and streak tracking across weeks
 
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
