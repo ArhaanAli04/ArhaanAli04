@@ -27,9 +27,6 @@
 ### [AI Travel Copilot](https://github.com/ArhaanAli04/ai-travel-copilot) · [Live Demo](https://ai-travel-copilot.vercel.app/) · [GitHub](https://github.com/ArhaanAli04/ai-travel-copilot)
 Full-stack AI assistant with three intelligent modules: multi-destination trip planning, automated flight disruption resolution, and local experience discovery.
 
-- Architected a flight disruption pipeline that resolves ambiguous airport queries via NLP, enriches cases with live AviationStack and weather data, generates regulatory-compliant compensation options, and drafts passenger emails using Gemini — **reducing manual resolution to zero human steps**
-- Built a local experience discovery module ingesting OSM, Reddit, and blog data into MongoDB with a Qdrant-backed RAG pipeline, returning context-aware POI recommendations filtered by live GPS location, time-of-day, and user preference embeddings
-- Multi-destination planning with dynamic re-planning, real-time flight and hotel search, and multi-user collaboration
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
